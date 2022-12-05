@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/OleksandrBuhai/HomeWork/static/css/main.08b7dd39.css",
+    "main.js": "/OleksandrBuhai/HomeWork/static/js/main.96a3c5e3.js",
+    "static/js/787.8bc2ed19.chunk.js": "/OleksandrBuhai/HomeWork/static/js/787.8bc2ed19.chunk.js",
+    "static/media/avatar.png": "/OleksandrBuhai/HomeWork/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/OleksandrBuhai/HomeWork/index.html",
+    "main.08b7dd39.css.map": "/OleksandrBuhai/HomeWork/static/css/main.08b7dd39.css.map",
+    "main.96a3c5e3.js.map": "/OleksandrBuhai/HomeWork/static/js/main.96a3c5e3.js.map",
+    "787.8bc2ed19.chunk.js.map": "/OleksandrBuhai/HomeWork/static/js/787.8bc2ed19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08b7dd39.css",
+    "static/js/main.96a3c5e3.js"
+  ]
+}
