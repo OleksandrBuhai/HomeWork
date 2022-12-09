@@ -19,13 +19,14 @@ import GreetingContainer from './GreetingContainer'
 
 // types
 export type UserType = {
-    _id: string // need to fix any
+    _id: number // need to fix any
     name: string // need to fix any
 }
 
 export const pureAddUserCallback = (name: string, setUsers: any, users: Array<UserType>) => { // need to fix any
     const user = { // need to fix
-        _id: "2" , name:name
+        _id:  new Date().getHours() + new Date().getMinutes(),
+         name:name
     }
     setUsers([...users, user])
 }
