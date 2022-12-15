@@ -8,6 +8,7 @@ import Error404 from "./Error404";
 function Junior() {
     return (
         <div id={'hw5-page-junior'}>
+            <Error404/>
             {/*<HW6 />*/}
             {/*<HW7 />*/}
             {/*<HW8 />*/}
