@@ -1,4 +1,5 @@
 import React from 'react'
+import Error404 from "./Error404";
 // import HW10 from '../../hw10/HW10'
 // import HW11 from '../../hw11/HW11'
 // import HW12 from '../../hw12/HW12'
@@ -9,6 +10,7 @@ import React from 'react'
 function JuniorPlus() {
     return (
         <div id={'hw5-page-junior-plus'}>
+            <Error404/>
             {/*<HW10 />*/}
             {/*<HW11 />*/}
             {/*<HW12 />*/}
