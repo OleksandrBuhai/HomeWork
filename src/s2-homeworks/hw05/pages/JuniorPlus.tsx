@@ -10,7 +10,7 @@ import Error404 from "./Error404";
 function JuniorPlus() {
     return (
         <div id={'hw5-page-junior-plus'}>
-            <Error404/>
+
             {/*<HW10 />*/}
             {/*<HW11 />*/}
             {/*<HW12 />*/}
